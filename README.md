@@ -199,6 +199,8 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [court-skill](https://github.com/alexyc9381/court-skill) - Puts an idea on trial: prosecutor and defense sub-agents argue, 12 juror sub-agents vote, and a judge gives the verdict and what would flip it.
+- [shark-skill](https://github.com/alexyc9381/shark-skill) - Shark Tank-style panel of Claude investor sub-agents that grill a business idea and each go IN or OUT with a practice offer.
 
 
 ## 🛡 Security & Web Testing
